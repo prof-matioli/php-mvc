@@ -1,6 +1,6 @@
 # php-mvc
 
-Projeto exemplo de como criar uma aplicação web em PHP usando o modelo MVC
+Projeto exemplo de como criar uma aplicação web em PHP usando o modelo MVC.
 Este projeto utiliza o **Composer** e a biblioteca de roteamento **FastRote**.
 Para conseguir fazer o projeto funcionar você deverá:
 1) Ter o XAMPP, ou similar, instalado e rodando na sua máquina de desenvolvimento;
