@@ -1,0 +1,12 @@
+{
+    "name": "seu-nome/projeto-mvc",
+    "description": "Uma aplicacao web com PHP, MVC e FastRoute.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
